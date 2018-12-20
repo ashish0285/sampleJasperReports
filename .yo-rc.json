@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "sampleJasperReports",
+    "packageName": "com.ashish.jasperreports",
+    "packageFolder": "com/ashish/jasperreports",
+    "serverPort": 9090,
+    "serviceDiscoveryType": false,
+    "authenticationType": "session",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "hi",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.1",
+    "rememberMeKey": "ca2b51b737c22ca59c219e7b964bad0e962e80a11f642c27269cea212535963e5a61649b8be46ac301a1562a324fcb4abe84",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "ashish0285",
+  "repository-name": "sampleJasperReports"
+}
